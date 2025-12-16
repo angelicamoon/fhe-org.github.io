@@ -8,7 +8,7 @@
 
 # FHE for Multiple Parties using NTRU and LWE
 #### by Oliver Zajonc - 2025.12.04
-#### <a href="https://luma.com/FHE.org-082">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=hnzOMx44f24">Presentation Recording</a> (YouTube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://luma.com/FHE.org-082"><img width="900" alt="Meetup 082" src="https://github.com/user-attachments/assets/8f78c549-682d-48e2-8277-176564366dac" /></a>
 
@@ -19,10 +19,6 @@ When using FHE in the setting with multiple parties, a major consideration is ke
 # About the speaker
 
 Oliver is a PhD Candidate at COSIC, KU Leuven. After completing his Master's in Mathematics at KU Leuven, he's published works on FHE, Garbled Circuits, and Secret Sharing-based MPC.
-
-# Register for the meetup
-
-RSVP for the meetup [here](https://luma.com/FHE.org-082).
 
 # Never miss an update
 
